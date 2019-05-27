@@ -25,6 +25,12 @@ def test_function(x, y):
 
 | Python | Rust |
 |-------|-------|
-| a = 5 | let a = 5; |
+|
+```python
+a = 5
+```|
+```rust
+let a = 5; 
+```|
 
 
