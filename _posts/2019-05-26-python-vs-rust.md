@@ -18,6 +18,12 @@ fn test_function(x: u32) -> Option<u32> {
 }
 ```
 
+{% highlight rust %}
+fn test_function(x: u32) -> Option<u32> {
+    Some(5)
+}
+{% endhighlight %}
+
 ```python
 def test_function(x, y):
         return x*y
